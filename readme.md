@@ -1,3 +1,5 @@
+VIDEO DEMO: https://youtu.be/pyzAj-i0wpM
+
 
 - Ohjelma tallentaa käyttäjälistan automaattisesti aina, kun uusi käyttäjä lisätään
 1 piste
