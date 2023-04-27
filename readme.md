@@ -11,3 +11,4 @@ VIDEO DEMO: https://youtu.be/pyzAj-i0wpM
 1 piste
 - Näytettäessä käyttäjän tietoja, listataan kaikki ne tutkinnot, jotka käyttäjä on jo suorittanut (tässä täytyy käyttää RecyclerViewtä – jos tehty edellisellä viikolla, ei tarvitse tehdä uudelleen, vaan käytetään olemassa olevaa) 
 - 1 piste
+KOODI ON ZIP TIEDOSTOSSA!
